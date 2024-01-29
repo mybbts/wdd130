@@ -13,8 +13,8 @@ body {
     --accent1-color: #660708;
     --accent2-color: #A4161A;
 
-    --heading-font: 1.2rem,serif;
-    --paragraphe-font: 1.2rem,serif;
+    --heading-font: #161A1D,serif;
+    --paragraphe-font: #D3D3D3,serif;
     
     --nav-background-color: #660708;
     --nav-link-color: #D3D3D3;
